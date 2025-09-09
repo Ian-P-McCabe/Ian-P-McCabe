@@ -1,4 +1,4 @@
-Hi 👋 I'm Ian McCabe and I'm currently a software engineer at Deloitte. 
+Hi 👋 I'm Ian McCabe and I'm a software engineer at Deloitte. 
 
 I am currently a back end engineer developing automated workflows with AI and Optimization technologies. 
 My latest work involves writing a Python module utilizing Google's [OR-Tools CP-SAT Solver](https://developers.google.com/optimization/cp/cp_solver) 
